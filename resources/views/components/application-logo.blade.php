@@ -1,0 +1,1 @@
+<img {{ $attributes }} src="{{ asset('/images/notes.png') }}" alt="Logo Aplikasi">
